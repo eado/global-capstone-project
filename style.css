@@ -1,4 +1,4 @@
-ul {
+ul#top-bar {
   position:fixed;
   top:0;
   width:100%;
@@ -8,16 +8,16 @@ ul {
   overflow:hidden;
   background-color: #303030;
 }
-li {
+ul#top-bar li {
   float:left; 
 }
-li a {
+ul#top-bar li a {
   display: block;
   color:white;
   text-align:center;
   padding:10px 16px;
   text-decoration:none; 
 }
-li a:hover {
+ul#top-bar li a:hover {
   background-color: #000000;
 }
