@@ -9,14 +9,15 @@ ul#top-bar {
   background-color: #303030;
 }
 ul#top-bar li {
-  float:left; 
+  float:left;
 }
 ul#top-bar li a {
   display: block;
   color:white;
   text-align:center;
   padding:10px 16px;
-  text-decoration:none; 
+  text-decoration:none;
+  font-family: "Ubuntu","Helvetica","Arial",sans-serif;
 }
 ul#top-bar li a:hover {
   background-color: #000000;
