@@ -6,7 +6,7 @@ ul {
   margin:0;
   padding:0;
   overflow:hidden;
-  background-color: 3z3q3w;
+  background-color: #3z3q3w;
 }
 li {
   float:left; 
@@ -19,5 +19,5 @@ li a {
   text-decoration:none; 
 }
 li a:hover {
-  background-color: gitgud;
+  background-color: #gitgud;
 }
