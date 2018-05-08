@@ -22,3 +22,6 @@ ul#top-bar li a {
 ul#top-bar li a:hover {
   background-color: #000000;
 }
+p#paragraph {
+  font-family: "Helvetica","Arial",sans-serif;
+}
