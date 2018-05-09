@@ -22,6 +22,9 @@ ul#top-bar li a {
 ul#top-bar li a:hover {
   background-color: #000000;
 }
+ul#top-bar .active {
+    background-color: #4CAF50;
+}
 p#paragraph {
   font-family: "Helvetica","Arial",sans-serif;
 }
