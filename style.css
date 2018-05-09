@@ -17,6 +17,7 @@ ul#top-bar li a {
   text-align:center;
   padding:10px 16px;
   text-decoration:none;
+  font-size: 20px;
   font-family: "Ubuntu","Helvetica","Arial",sans-serif;
 }
 ul#top-bar li a:hover {
