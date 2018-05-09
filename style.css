@@ -18,9 +18,6 @@ ul#top-bar li a {
   padding:10px 16px;
   text-decoration:none;
   font-family: "Ubuntu","Helvetica","Arial",sans-serif;
-  .active {
-    background-color: #4CAF50;
-  }
 }
 ul#top-bar li a:hover {
   background-color: #000000;
